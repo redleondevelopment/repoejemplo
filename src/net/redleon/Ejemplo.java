@@ -6,6 +6,7 @@ public class Ejemplo {
 		System.out.println("Hola mundo!!!!!!!");
 		System.out.println("Hola que tal!");
 		System.out.println("Hola a todos!");
+		System.out.println("Adios");
 
 	}
 
